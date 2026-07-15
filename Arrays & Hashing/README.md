@@ -6,4 +6,4 @@
 6. [Valid Anagram](242.%20Valid%20Anagram.md)
 7. [Encode and Decode Strings (REDO)](271.%20Encode%20and%20Decode%20Strings%20(REDO).md)
 8. [Top K Frequent Elements](347.%20Top%20K%20Frequent%20Elements.md)
-9. [Two Sum](1.%20Two%20Sum.md)
+9. [Two Sum](36.%20Valid%20Sudok.md)
