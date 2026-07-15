@@ -1,6 +1,6 @@
 1. [Two Sum](1.%20Two%20Sum)
-2. [Two Sum](1.%20Two%20Sum)
-3. [Two Sum](1.%20Two%20Sum)
+2. [Group Anagrams](49.%20Group%20Anagrams))
+3. [Longest Consecutive Sequence](128.%20Longest%20Consecutive%20Sequence)
 4. [Two Sum](1.%20Two%20Sum)
 5. [Two Sum](1.%20Two%20Sum)
 6. [Two Sum](1.%20Two%20Sum)
