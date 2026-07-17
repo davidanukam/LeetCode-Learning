@@ -41,3 +41,4 @@ class Solution:
 
 ```
 
+Using a stack (LIFO $\rightarrow$ Last In First Out), we can compute any equation using the Reve
