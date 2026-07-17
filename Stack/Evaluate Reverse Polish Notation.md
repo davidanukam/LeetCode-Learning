@@ -43,4 +43,6 @@ class Solution:
 
 Using a stack (LIFO $\rightarrow$ Last In First Out), we can compute any equation using the Reverse Polish Notation.
 
-First, we need to make sure we can differentiate between numbers and operators. For each token in the list, we can check if it is a positive or n
+First, we need to make sure we can differentiate between numbers and operators. For each token in the list, we can check if it is a positive or negative number. If it is one of the two, then we can push its value to the stack.
+
+However, if the token is an operator, then we first pop out the top 2 elements on our stack and check what operator 
