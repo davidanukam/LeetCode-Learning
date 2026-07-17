@@ -1,3 +1,3 @@
-1. [Two Sum](1.%20Two%20Sum.md)
-2. [Valid Sudoku](36.%20Valid%20Sudoku.md)
-3. [Group Anagrams](49.%20Group%20Anagrams.md)
+1. [Valid Parentheses](20.%20Valid%20Parentheses.md)
+2. [Evaluate Reverse Polish Notation](150.%20Evaluate%20Reverse%20Polish%20Notation.md)
+3. [Min Stack](155.%.md)
