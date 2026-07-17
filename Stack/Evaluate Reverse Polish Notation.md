@@ -46,3 +46,5 @@ Using a stack (LIFO $\rightarrow$ Last In First Out), we can compute any equatio
 First, we need to make sure we can differentiate between numbers and operators. For each token in the list, we can check if it is a positive or negative number. If it is one of the two, then we can push its value to the stack.
 
 However, if the token is an operator, then we first pop out the top 2 elements on our stack and check what operator the token is. Once we have that, we can evaluate the equation and push the new number back onto the top of the stack.
+
+Lastly, if the stack has a length of 1, we can return the number on the top of the stack. If the stack is empty, then we can just return 0.
