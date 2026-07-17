@@ -41,4 +41,6 @@ class Solution:
 
 ```
 
-Using a stack (LIFO $\rightarrow$ Last In First Out), we can compute any equation using the Reve
+Using a stack (LIFO $\rightarrow$ Last In First Out), we can compute any equation using the Reverse Polish Notation.
+
+First, we need to make sure we can differentiate between numbers and operators. For each token in the list, we can check if it is a positive or n
