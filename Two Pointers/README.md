@@ -1,1 +1,1 @@
-[Valid Palindrome](125.%20Valid%20Palindrome)
+[Valid Palindrome](125.%20Valid%20Palindrome.md)
