@@ -36,4 +36,6 @@ class Solution:
         return amount
 ```
 
-We can set up two po
+We can set up two pointers: one at the front of the array, and another at the back of the array.
+
+We can then loop until the first pointer passes the second one. While within the loop, we can calculate the length of the container and the height of the container as well.
