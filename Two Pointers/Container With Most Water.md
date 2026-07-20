@@ -42,4 +42,4 @@ We can then loop until the first pointer passes the second one. While within the
 
 We can then update the amount variable if the current calculated area if greater than the saved amount value.
 
-After, we can then check wh
+After, we can then check the heights of the bars (located at the indices of the pointers in the array) and 
