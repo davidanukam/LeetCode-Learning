@@ -38,4 +38,8 @@ class Solution:
 
 We can set up two pointers: one at the front of the array, and another at the back of the array.
 
-We can then loop until the first pointer passes the second one. While within the loop, we can calculate the length of the container and the height of the container as well.
+We can then loop until the first pointer passes the second one. While within the loop, we can calculate the length of the container, the height of the container, and then the overall area of water it can hold.
+
+We can then update the amount variable if the current calculated area if greater than the saved amount value.
+
+After, we can then check wh
