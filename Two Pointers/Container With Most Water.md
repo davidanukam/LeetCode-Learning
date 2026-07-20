@@ -42,4 +42,4 @@ We can then loop until the first pointer passes the second one. While within the
 
 We can then update the amount variable if the current calculated area if greater than the saved amount value.
 
-After, we can then check the heights of the bars (located at the indices of the pointers in the array) and compare them. If the height of the first bar (at the index of the first pointer) is 
+After, we can then check the heights of the bars (located at the indices of the pointers in the array) and compare them. If the height of the first bar (at the index of the first pointer) is less than the height of the second bar (at the index of the second pointer), then we can increase the first pointer by 1. If the height of the second bar if less than the height of the first bar
