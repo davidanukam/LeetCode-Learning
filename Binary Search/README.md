@@ -1,0 +1,1 @@
+1. [Binary Search](704.%20Binary%20Search.md)
