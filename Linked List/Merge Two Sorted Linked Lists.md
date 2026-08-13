@@ -6,7 +6,7 @@ Merge the two lists into one **sorted** linked list and return the head of the n
 The new list should be made up of nodes from `list1` and `list2`.
 
 ## Example
-
+![MergeTwoSortedLinkedListsExample](assets/MergeTwoSortedLinkedListsExample.png)
 
 ## Solution
 ```python
