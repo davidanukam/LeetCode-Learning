@@ -1,7 +1,7 @@
 1. [Add Two Numbers](2.%20Add%20Two%20Numbers.md)
-2. [Remove Nth Node From End of List](19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
+2. [Remove Nth Node From End of List](19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) - Explain
 3. [Merge Two Sorted Linked Lists](21.%20Merge%20Two%20Sorted%20Linked%20Lists.md)
 4. [Linked List Cycle Detection](141.%20Linked%20List%20Cycle%20Detection.md)
-5. [Reorder Linked List](143.%20Reorder%20Linked%20List.md)
+5. [Reorder Linked List](143.%20Reorder%20Linked%20List.md) - Explain
 6. [Reverse Linked List](206.%20Reverse%20Linked%20List.md)
-7. [Find the Duplicate Number](287.%20Find%20the%20Duplicate%20Number.md)
+7. [Find the Duplicate Number](287.%20Find%20the%20Duplicate%20Number.md) - Explain
