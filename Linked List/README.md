@@ -5,4 +5,4 @@
 5. [Linked List Cycle Detection](141.%20Linked%20List%20Cycle%20Detection.md)
 6. [Reorder Linked List](143.%20Reorder%20Linked%20List.md)
 7. [Reverse Linked List](206.%20Reverse%20Linked%20List.md)
-8. [Find the Duplicate Number](287.%20Find%20the%20Duplicate%20Number.md) - Explain
+8. [Find the Duplicate Number](287.%20Find%20the%20Duplicate%20Number.md) - Get Better Solution
