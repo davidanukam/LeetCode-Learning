@@ -5,4 +5,4 @@
 5. [Invert Binary Tree](226.Invert%20Binary%20Tree.md)
 6. [Diameter of Binary Tree](543.%20Diameter%20of%20Binary%20Tree.md) - Explain
 7. [Subtree of Another Tree](572.%20Subtree%20of%20Another%20Tree.md) - Explain
-8. 
+8. [Count Good Nodes in Binary Tree]()
