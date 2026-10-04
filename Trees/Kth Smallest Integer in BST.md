@@ -8,7 +8,13 @@ A **binary search tree** satisfies the following constraints:
 - Both the left and right subtrees are also binary search trees.
 
 ## Example
+![KthSmallestIntegerInBST](assets/KthSmallestIntegerInBST.png)
 
+```python
+Input: root = [2,1,3], k = 1
+
+Output: 1
+```
 
 ## Solution
 ```python
